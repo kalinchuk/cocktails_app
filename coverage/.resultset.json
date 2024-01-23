@@ -1,0 +1,195 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/artemkalinchuk/apps/codegarden/cocktails/app/controllers/api/drinks_controller.rb": {
+        "lines": [
+          1,
+          1,
+          4,
+          null,
+          null,
+          4,
+          null,
+          null,
+          1,
+          2,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          6,
+          null,
+          null
+        ]
+      },
+      "/Users/artemkalinchuk/apps/codegarden/cocktails/app/controllers/api/api_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/artemkalinchuk/apps/codegarden/cocktails/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/artemkalinchuk/apps/codegarden/cocktails/spec/models/category_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/artemkalinchuk/apps/codegarden/cocktails/app/models/category.rb": {
+        "lines": [
+          1,
+          null
+        ]
+      },
+      "/Users/artemkalinchuk/apps/codegarden/cocktails/app/models/application_record.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/artemkalinchuk/apps/codegarden/cocktails/spec/models/drink_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          2,
+          null,
+          null,
+          1,
+          2,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/artemkalinchuk/apps/codegarden/cocktails/app/models/drink.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null
+        ]
+      },
+      "/Users/artemkalinchuk/apps/codegarden/cocktails/spec/models/ingredient_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          2,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null
+        ]
+      },
+      "/Users/artemkalinchuk/apps/codegarden/cocktails/app/models/ingredient.rb": {
+        "lines": [
+          1,
+          null,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null
+        ]
+      },
+      "/Users/artemkalinchuk/apps/codegarden/cocktails/app/services/drinks/search_service.rb": {
+        "lines": [
+          1,
+          1,
+          4,
+          4,
+          4,
+          4,
+          null,
+          null,
+          null,
+          null,
+          null,
+          1,
+          4,
+          4,
+          4,
+          null,
+          null
+        ]
+      },
+      "/Users/artemkalinchuk/apps/codegarden/cocktails/app/services/base_service.rb": {
+        "lines": [
+          1,
+          1,
+          4,
+          null,
+          null
+        ]
+      },
+      "/Users/artemkalinchuk/apps/codegarden/cocktails/app/blueprints/drink_blueprint.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          20,
+          null,
+          null,
+          1,
+          20,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/artemkalinchuk/apps/codegarden/cocktails/app/blueprints/ingredient_blueprint.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      }
+    },
+    "timestamp": 1705961174
+  }
+}

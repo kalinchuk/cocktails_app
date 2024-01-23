@@ -1,0 +1,16 @@
+{
+  "drinks": [
+    {
+      "id": "301",
+      "name": "Van Vleet",
+      "category": "Ordinary Drink",
+      "image": "https://www.thecocktaildb.com/images/media/drink/fgq2bl1492975771.jpg"
+    },
+    {
+      "id": "302",
+      "name": "Just a Moonmint",
+      "category": "Shake",
+      "image": "https://www.thecocktaildb.com/images/media/drink/znald61487604035.jpg"
+    }
+  ]
+}
